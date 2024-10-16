@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Backend Setup:
 
 1. **Install Required Python Packages**: Ensure that all necessary Python packages are installed. This can be done using `pip install` with the `requirements.txt` file (if provided) or by installing each required package individually.
