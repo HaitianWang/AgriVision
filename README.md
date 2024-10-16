@@ -39,6 +39,3 @@ To perform inference, the input must be a zipped file of the `smalldata_X_Y` dat
 ### Python Version:
 
 The backend uses Python version 3.9.*. Ensure compatibility when installing packages and running the application.
-=======
-# AgriVision
->>>>>>> 7d19d78e496b4673cda946b3fcb14312e2cce6fe
