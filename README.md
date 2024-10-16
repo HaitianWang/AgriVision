@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Backend Setup:
 
 1. **Install Required Python Packages**: Ensure that all necessary Python packages are installed. This can be done using `pip install` with the `requirements.txt` file (if provided) or by installing each required package individually.
@@ -39,3 +40,6 @@ To perform inference, the input must be a zipped file of the `smalldata_X_Y` dat
 ### Python Version:
 
 The backend uses Python version 3.9.*. Ensure compatibility when installing packages and running the application.
+=======
+# AgriVision
+>>>>>>> 7d19d78e496b4673cda946b3fcb14312e2cce6fe
